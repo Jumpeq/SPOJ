@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TABLICA", "TABLICA\TABLICA.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SUMA", "SUMA\SUMA.csproj", "{E4DF4A1E-5868-4B67-8C7C-3E8916B5FCA8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CALC", "CALC\CALC.csproj", "{4239A1B5-EDFA-48B4-8541-11021A86F534}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{E4DF4A1E-5868-4B67-8C7C-3E8916B5FCA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4DF4A1E-5868-4B67-8C7C-3E8916B5FCA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4DF4A1E-5868-4B67-8C7C-3E8916B5FCA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4239A1B5-EDFA-48B4-8541-11021A86F534}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4239A1B5-EDFA-48B4-8541-11021A86F534}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4239A1B5-EDFA-48B4-8541-11021A86F534}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4239A1B5-EDFA-48B4-8541-11021A86F534}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
