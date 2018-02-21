@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PTCLTZ", "PTCLTZ\PTCLTZ.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PTROL", "PTROL\PTROL.csproj", "{93759F40-07C9-4CF9-9A7E-CB1459D654C0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EUCGAME", "EUCGAME\EUCGAME.csproj", "{0F6571AE-5100-41A2-ACD4-CF507B30AF78}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{93759F40-07C9-4CF9-9A7E-CB1459D654C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93759F40-07C9-4CF9-9A7E-CB1459D654C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93759F40-07C9-4CF9-9A7E-CB1459D654C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F6571AE-5100-41A2-ACD4-CF507B30AF78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F6571AE-5100-41A2-ACD4-CF507B30AF78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F6571AE-5100-41A2-ACD4-CF507B30AF78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F6571AE-5100-41A2-ACD4-CF507B30AF78}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
