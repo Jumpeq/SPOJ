@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CALC", "CALC\CALC.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CALC2", "CALC2\CALC2.csproj", "{D40E5F01-4732-4FEA-BD39-2443AFF9B683}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SYS", "SYS\SYS.csproj", "{1D54549D-90DF-468F-B3F7-47F94A5434EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{D40E5F01-4732-4FEA-BD39-2443AFF9B683}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D40E5F01-4732-4FEA-BD39-2443AFF9B683}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D40E5F01-4732-4FEA-BD39-2443AFF9B683}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D54549D-90DF-468F-B3F7-47F94A5434EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D54549D-90DF-468F-B3F7-47F94A5434EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D54549D-90DF-468F-B3F7-47F94A5434EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D54549D-90DF-468F-B3F7-47F94A5434EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
