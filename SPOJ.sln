@@ -59,6 +59,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSZYCER", "JSZYCER\JSZYCER.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MWPZ06D", "MWPZ06D\MWPZ06D.csproj", "{8CA8010C-C529-4D07-851D-59875EB529A2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MWPZ06H", "MWPZ06H\MWPZ06H.csproj", "{A3170BEF-86A5-43F5-8B7A-FD13EFE252CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -177,6 +179,10 @@ Global
 		{8CA8010C-C529-4D07-851D-59875EB529A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8CA8010C-C529-4D07-851D-59875EB529A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8CA8010C-C529-4D07-851D-59875EB529A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3170BEF-86A5-43F5-8B7A-FD13EFE252CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3170BEF-86A5-43F5-8B7A-FD13EFE252CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3170BEF-86A5-43F5-8B7A-FD13EFE252CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3170BEF-86A5-43F5-8B7A-FD13EFE252CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
