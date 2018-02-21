@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PA05_POT", "PA05_POT\PA05_P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ROWNANIE", "ROWNANIE\ROWNANIE.csproj", "{8F24B538-41AD-4495-9D89-7B2EED612EA8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETI06F1", "ETI06F1\ETI06F1.csproj", "{2554D216-680C-4A02-91C3-B1D030D1C6AE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{8F24B538-41AD-4495-9D89-7B2EED612EA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F24B538-41AD-4495-9D89-7B2EED612EA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F24B538-41AD-4495-9D89-7B2EED612EA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2554D216-680C-4A02-91C3-B1D030D1C6AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2554D216-680C-4A02-91C3-B1D030D1C6AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2554D216-680C-4A02-91C3-B1D030D1C6AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2554D216-680C-4A02-91C3-B1D030D1C6AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
