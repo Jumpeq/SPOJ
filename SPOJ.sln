@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRZEDSZK", "PRZEDSZK\PRZEDS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PA05_POT", "PA05_POT\PA05_POT.csproj", "{71C4DCF2-FE8F-4A2B-971B-E01F1A5B8B88}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ROWNANIE", "ROWNANIE\ROWNANIE.csproj", "{8F24B538-41AD-4495-9D89-7B2EED612EA8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{71C4DCF2-FE8F-4A2B-971B-E01F1A5B8B88}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71C4DCF2-FE8F-4A2B-971B-E01F1A5B8B88}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71C4DCF2-FE8F-4A2B-971B-E01F1A5B8B88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F24B538-41AD-4495-9D89-7B2EED612EA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F24B538-41AD-4495-9D89-7B2EED612EA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F24B538-41AD-4495-9D89-7B2EED612EA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F24B538-41AD-4495-9D89-7B2EED612EA8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
