@@ -67,6 +67,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JPESEL", "JPESEL\JPESEL.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POTSAM", "POTSAM\POTSAM.csproj", "{628CCA00-B807-4B29-8CE2-73ED05ED5338}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KC001", "KC001\KC001.csproj", "{EF712826-9004-40B0-81A4-B8935EFAFAC3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -201,6 +203,10 @@ Global
 		{628CCA00-B807-4B29-8CE2-73ED05ED5338}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{628CCA00-B807-4B29-8CE2-73ED05ED5338}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{628CCA00-B807-4B29-8CE2-73ED05ED5338}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF712826-9004-40B0-81A4-B8935EFAFAC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF712826-9004-40B0-81A4-B8935EFAFAC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF712826-9004-40B0-81A4-B8935EFAFAC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF712826-9004-40B0-81A4-B8935EFAFAC3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
