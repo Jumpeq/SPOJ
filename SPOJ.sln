@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MWPZ06X", "MWPZ06X\MWPZ06X.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWSPLIN", "JWSPLIN\JWSPLIN.csproj", "{3429599C-A216-4091-AC85-23CD99118F0F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PP0501A", "PP0501A\PP0501A.csproj", "{5DA9F6D3-E033-4789-BD13-CC24F73B1325}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{3429599C-A216-4091-AC85-23CD99118F0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3429599C-A216-4091-AC85-23CD99118F0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3429599C-A216-4091-AC85-23CD99118F0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DA9F6D3-E033-4789-BD13-CC24F73B1325}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DA9F6D3-E033-4789-BD13-CC24F73B1325}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DA9F6D3-E033-4789-BD13-CC24F73B1325}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DA9F6D3-E033-4789-BD13-CC24F73B1325}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
