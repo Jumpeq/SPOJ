@@ -79,6 +79,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KC009", "KC009\KC009.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KC010", "KC010\KC010.csproj", "{F6817297-9AA5-4E30-B8F4-618BBEAB7923}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FLAMASTE", "FLAMASTE\FLAMASTE.csproj", "{1399449D-763E-4903-B22B-92B93904335F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -237,6 +239,10 @@ Global
 		{F6817297-9AA5-4E30-B8F4-618BBEAB7923}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6817297-9AA5-4E30-B8F4-618BBEAB7923}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6817297-9AA5-4E30-B8F4-618BBEAB7923}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1399449D-763E-4903-B22B-92B93904335F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1399449D-763E-4903-B22B-92B93904335F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1399449D-763E-4903-B22B-92B93904335F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1399449D-763E-4903-B22B-92B93904335F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
