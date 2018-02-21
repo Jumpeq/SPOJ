@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GLUTTON", "GLUTTON\GLUTTON.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PTCLTZ", "PTCLTZ\PTCLTZ.csproj", "{19EEF3FA-AD6A-4EEE-85B2-BD6831A9E0F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PTROL", "PTROL\PTROL.csproj", "{93759F40-07C9-4CF9-9A7E-CB1459D654C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{19EEF3FA-AD6A-4EEE-85B2-BD6831A9E0F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19EEF3FA-AD6A-4EEE-85B2-BD6831A9E0F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19EEF3FA-AD6A-4EEE-85B2-BD6831A9E0F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93759F40-07C9-4CF9-9A7E-CB1459D654C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93759F40-07C9-4CF9-9A7E-CB1459D654C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93759F40-07C9-4CF9-9A7E-CB1459D654C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93759F40-07C9-4CF9-9A7E-CB1459D654C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
