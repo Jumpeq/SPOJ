@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EUCGAME", "EUCGAME\EUCGAME.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TRN", "TRN\TRN.csproj", "{D4AF5495-0B80-446F-84CB-213700A6B877}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TABLICA", "TABLICA\TABLICA.csproj", "{05C5E371-E881-45B0-BD1C-18F3BB6E88BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{D4AF5495-0B80-446F-84CB-213700A6B877}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4AF5495-0B80-446F-84CB-213700A6B877}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4AF5495-0B80-446F-84CB-213700A6B877}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05C5E371-E881-45B0-BD1C-18F3BB6E88BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05C5E371-E881-45B0-BD1C-18F3BB6E88BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05C5E371-E881-45B0-BD1C-18F3BB6E88BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05C5E371-E881-45B0-BD1C-18F3BB6E88BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
